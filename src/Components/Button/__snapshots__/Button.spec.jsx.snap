@@ -1,0 +1,29 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Button should work correctly match the second snapshot 1`] = `
+<div
+  data-testid="btn-basic"
+  onClick={[Function]}
+  style={
+    Object {
+      "backgroundColor": "red",
+    }
+  }
+>
+  ADD
+</div>
+`;
+
+exports[`Button should work correctly match the snapshot 1`] = `
+<div
+  data-testid="btn-basic"
+  onClick={[Function]}
+  style={
+    Object {
+      "backgroundColor": "red",
+    }
+  }
+>
+  REMOVE
+</div>
+`;
